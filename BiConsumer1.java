@@ -8,7 +8,7 @@ BiConsumer<Integer,Integer> b=(a,c)->a.compareTo(c);{
 	
 	System.out.println(b);
 	
-}b.accept(2, 3);
+}b.accept(2, 5);
 
 	}
 
